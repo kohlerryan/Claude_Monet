@@ -36,3 +36,9 @@ The `artwork_description` field (and other text fields) support the following in
 | `` `code` `` | `code` |
 | `line one\nline two` | line break (in multiline fields) |
 
+
+## Support
+
+If you find this collection useful, consider supporting the project:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kohlerryan)
